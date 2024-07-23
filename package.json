@@ -4,7 +4,8 @@
   "description": "for newsletter",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "npm install"
   },
   "author": "Michael Gnaho",
   "license": "ISC",
